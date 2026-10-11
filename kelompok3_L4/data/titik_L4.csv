@@ -1,0 +1,44 @@
+titik_id,x_px,y_px,keterangan
+L4-001,775,275,Sudut Kiri-Atas dekat Toilet
+L4-002,715,290,Depan Pintu Toilet (P/W)
+L4-003,775,190,Teras Luar Kiri-Atas (Dekat Toilet)
+L4-004,775,390,Depan Bank Lift 1 (Atas)
+L4-005,775,645,Depan Bank Lift 2 (Bawah)
+L4-006,1063,645,R.4.5 (Kelas Tengah Bawah-Tengah)
+L4-007,775,740,Depan Pintu Tangga Utama
+L4-008,775,835,Teras Luar Kiri-Bawah (Dekat Tangga)
+L4-009,700,770,Bordes Tangga Utama
+L4-010,900,255,Koridor Atas (E - D)
+L4-011,1063,255,Koridor Atas Tengah (D - C)
+L4-012,1063,135,Balkon Luar Sayap Atas (R.4.7)
+L4-013,1223,255,Koridor Atas (C - B)
+L4-014,1223,150,Teras Luar Tangga Darurat Atas
+L4-015,1335,255,Sudut Kanan-Atas
+L4-016,1335,390,Koridor Kanan Atas
+L4-017,1335,517,Depan Pintu Balkon Tengah
+L4-018,1405,517,Sayap Luar Balkon Kanan
+L4-019,1335,600,Koridor Kanan Dekat APAR
+L4-020,1335,680,Koridor Kanan Bawah
+L4-021,1335,780,Sudut Kanan-Bawah
+L4-022,1223,885,Teras Luar Tangga Darurat Bawah
+L4-023,1223,780,Koridor Bawah (B - C)
+L4-024,1063,780,Koridor Bawah Bagian Tengah
+L4-025,1063,895,Balkon Luar Sayap Bawah (R.4.8)
+L4-026,900,780,Koridor Bawah (D - E)
+L4-027,830,780,Koridor Bawah Dkt Tangga
+L4-028,900,390,R.4.1 (Kelas Tengah Atas-Barat)
+L4-029,796,517,Depan Lift (Foyer Tengah)
+L4-030,900,645,R.4.4 (Kelas Tengah Bawah-Barat)
+L4-031,1063,390,R.4.2 (Kelas Tengah Atas-Tengah)
+L4-032,1223,390,R.4.3 (Kelas Tengah Atas-Timur)
+L4-033,1223,645,R.4.6 (Kelas Tengah Bawah-Timur)
+L4-034,252,516,Lorong Sayap Barat (Ujung Barat)
+L4-035,414,516,Lorong Sayap Barat (Tengah)
+L4-036,576,516,Lorong Sayap Barat (Timur)
+L4-037,657,516,Pintu Masuk Sayap Barat (Ke Foyer)
+L4-038,252,432,R. Kelas Sayap 1 (Utara-Barat)
+L4-039,414,432,R. Kelas Sayap 2 (Utara-Tengah)
+L4-040,576,432,R. Kelas Sayap 3 (Utara-Timur)
+L4-041,252,600,R. Kelas Sayap 4 (Selatan-Barat)
+L4-042,414,600,R. Kelas Sayap 5 (Selatan-Tengah)
+L4-043,576,600,R. Kelas Sayap 6 (Selatan-Timur)

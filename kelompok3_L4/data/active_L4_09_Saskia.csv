@@ -1,0 +1,2 @@
+timestamp,titik_id,bssid_assoc,freq_mhz,rssi_dbm,tx_rate_mbps,rtt_avg_ms,rtt_max_ms,jitter_ms,loss_pct,down_mbps,up_mbps,metode_rtt,anggota,blok
+2026-09-28T14:59:27,L4-026,c0:c7:0a:98:38:b1,5805,-59,286.8,10.65,29.65,7.97,0.0,,,tcp443,Saskia,I

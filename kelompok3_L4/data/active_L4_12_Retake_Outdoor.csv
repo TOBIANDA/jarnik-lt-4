@@ -1,0 +1,3 @@
+timestamp,titik_id,bssid_assoc,freq_mhz,rssi_dbm,tx_rate_mbps,rtt_avg_ms,rtt_max_ms,jitter_ms,loss_pct,down_mbps,up_mbps,metode_rtt,anggota,blok
+2026-10-05T14:03:55,L4-008,c0:c7:0a:98:38:b1,5805,-78,7.2,69.1,162.92,36.45,0.0,,,tcp443,Retake_Outdoor,Perimeter
+2026-10-05T14:04:38,L4-025,c0:c7:0a:98:38:b1,5805,-79,57.8,88.44,280.87,73.57,0.0,,,tcp443,Retake_Outdoor,Perimeter

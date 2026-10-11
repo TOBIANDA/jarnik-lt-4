@@ -1,0 +1,570 @@
+timestamp,lantai,titik_id,x_px,y_px,slot_waktu,device,scan_ke,ssid,bssid,freq_mhz,channel,band,width_mhz,rssi_dbm,noise_dbm,sta_count,ch_util_pct,security,pmf,catatan,anggota,blok
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-58.0,,48.0,41.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-52.0,,9.0,56.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:d2,5765,153,5.0,20,-54.0,,3.0,56.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:d1,5765,153,5.0,20,-51.0,,37.0,56.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,Redmi Note 13 Pro 5G,f6:e8:e3:c9:91:e5,5200,40,5.0,80,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-73.0,,30.0,56.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-75.0,,9.0,56.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-67.0,,30.0,80.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-67.0,,2.0,80.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-67.0,,8.0,80.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-55.0,,69.0,74.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-57.0,,4.0,74.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-57.0,,21.0,74.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,eduroam,34:8f:27:04:98:a8,2462,11,2.4,20,-69.0,,1.0,37.3,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-64.0,,1.0,55.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:58:34:d1,2462,11,2.4,20,-64.0,,1.0,55.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-64.0,,1.0,55.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,,c8:5a:9f:ce:72:52,2447,8,2.4,20,-74.0,,0.0,0.8,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,Can I Get Uhhh,02:33:1c:50:52:5c,2437,6,2.4,20,-68.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,au ah gelap,e4:7d:eb:a4:42:8b,2437,6,2.4,20,-68.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,Hello World!,da:dc:e6:e3:be:97,2437,6,2.4,20,-66.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,Edgar's Galaxy S26,a2:e9:48:c3:10:16,2412,1,2.4,20,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:11,4,L4-020,1335.0,680.0,T1,laptopG,1,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-54.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-57.0,,47.0,49.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:d1,5765,153,5.0,20,-56.0,,38.0,59.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:d2,5765,153,5.0,20,-53.0,,3.0,59.6,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-55.0,,9.0,59.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-58.0,,2.0,45.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-58.0,,14.0,45.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,Hooh?,7e:22:13:af:3a:5e,5745,149,5.0,80,-73.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-67.0,,1.0,75.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-68.0,,31.0,75.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-67.0,,8.0,75.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-56.0,,70.0,56.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-60.0,,4.0,56.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,FILKOM EVENT,54:d7:e3:45:51:23,2462,11,2.4,20,-77.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,xxxyx,a6:42:06:8a:5e:34,2462,11,2.4,20,-81.0,,,,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-65.0,,1.0,43.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,eduroam,54:d7:e3:45:51:22,2462,11,2.4,20,-75.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:58:34:d1,2462,11,2.4,20,-65.0,,2.0,43.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,cantik ,56:58:11:a3:74:9b,2462,11,2.4,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-63.0,,1.0,43.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,Hello World!,da:dc:e6:e3:be:97,2437,6,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,ESP-528925,de:4f:22:52:89:25,2412,1,2.4,20,-55.0,,,,Open,no,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-57.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:27:20,4,L4-020,1335.0,680.0,T1,laptopG,2,Edgar's Galaxy S26,a2:e9:48:c3:10:16,2412,1,2.4,20,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-58.0,,47.0,62.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-71.0,,24.0,69.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:34:d2,5765,153,5.0,20,-50.0,,3.0,62.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:34:d1,5765,153,5.0,20,-51.0,,38.0,62.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-50.0,,9.0,62.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-57.0,,2.0,73.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-58.0,,14.0,73.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-66.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,Redmi Note 13 Pro 5G,f6:e8:e3:c9:91:e5,5200,40,5.0,80,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-72.0,,31.0,73.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-67.0,,1.0,73.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-67.0,,8.0,73.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-59.0,,70.0,48.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-60.0,,4.0,48.6,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-58.0,,22.0,48.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-64.0,,1.0,43.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-62.0,,1.0,43.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:58:34:d1,2462,11,2.4,20,-63.0,,2.0,43.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,Can I Get Uhhh,02:33:1c:50:52:5c,2437,6,2.4,20,-63.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-72.0,,3.0,77.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:27:29,4,L4-020,1335.0,680.0,T1,laptopG,3,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-57.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-61.0,,47.0,68.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:d2,5765,153,5.0,20,-47.0,,3.0,62.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:d1,5765,153,5.0,20,-47.0,,39.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-45.0,,9.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-58.0,,2.0,54.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-59.0,,14.0,54.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,WiFi-UB.x,b4:79:c8:ae:45:dc,5745,149,5.0,40,-80.0,,9.0,20.4,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-70.0,,1.0,94.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-71.0,,32.0,94.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-73.0,,8.0,94.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-48.0,,69.0,84.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-49.0,,4.0,84.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-50.0,,22.0,84.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,cantik ,56:58:11:a3:74:9b,2462,11,2.4,20,-76.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:58:34:d1,2462,11,2.4,20,-56.0,,1.0,54.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-46.0,,1.0,54.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-45.0,,1.0,54.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,au ah gelap,e4:7d:eb:a4:42:8b,2437,6,2.4,20,-65.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,Can I Get Uhhh,02:33:1c:50:52:5c,2437,6,2.4,20,-64.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,WIFI FIB,86:2a:a8:3d:1b:47,2412,1,2.4,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,myECO_IR,ca:2b:96:1c:d9:5c,2412,1,2.4,20,-70.0,,,,Open,no,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,DIRECT-F5-HP Laser 107w,c2:18:03:9d:da:f5,2412,1,2.4,20,-65.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:34,4,L4-019,1335.0,600.0,T1,laptopG,1,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-66.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-58.0,,47.0,67.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:d2,5765,153,5.0,20,-47.0,,3.0,62.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:d1,5765,153,5.0,20,-47.0,,39.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-45.0,,9.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-58.0,,2.0,54.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-59.0,,14.0,54.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,WiFi-UB.x,b4:79:c8:ae:45:dc,5745,149,5.0,40,-80.0,,9.0,20.4,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-70.0,,1.0,94.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-71.0,,32.0,94.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-73.0,,8.0,94.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-48.0,,69.0,84.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-49.0,,4.0,84.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-50.0,,22.0,84.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,cantik ,56:58:11:a3:74:9b,2462,11,2.4,20,-76.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:58:34:d1,2462,11,2.4,20,-56.0,,1.0,54.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-46.0,,1.0,54.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-45.0,,1.0,54.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,au ah gelap,e4:7d:eb:a4:42:8b,2437,6,2.4,20,-65.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,Can I Get Uhhh,02:33:1c:50:52:5c,2437,6,2.4,20,-64.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,WIFI FIB,86:2a:a8:3d:1b:47,2412,1,2.4,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,DIRECT-F5-HP Laser 107w,c2:18:03:9d:da:f5,2412,1,2.4,20,-65.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-66.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:28:43,4,L4-019,1335.0,600.0,T1,laptopG,2,myECO_IR,ca:2b:96:1c:d9:5c,2412,1,2.4,20,-70.0,,,,Open,no,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-60.0,,48.0,51.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-74.0,,23.0,78.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,FKUB_HotSpot_Backup,3c:46:a1:bb:cd:93,5765,153,5.0,40,-80.0,,1.0,57.6,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-45.0,,10.0,55.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-60.0,,2.0,49.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-60.0,,14.0,49.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,WiFi-UB.x,b4:79:c8:ae:45:dc,5745,149,5.0,40,-80.0,,9.0,15.7,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-77.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,APCobaX,74:4d:28:49:75:30,5280,56,5.0,40,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,Redmi Note 13 Pro 5G,f6:e8:e3:c9:91:e5,5200,40,5.0,80,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-55.0,,70.0,69.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-56.0,,4.0,69.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-52.0,,21.0,69.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:58:34:d1,2462,11,2.4,20,-67.0,,1.0,38.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-66.0,,1.0,38.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-65.0,,1.0,38.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,xxxyx,a6:42:06:8a:5e:34,2462,11,2.4,20,-68.0,,,,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,Can I Get Uhhh,02:33:1c:50:52:5c,2437,6,2.4,20,-60.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,Edgar's Galaxy S26,a2:e9:48:c3:10:16,2412,1,2.4,20,-69.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-65.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:28:52,4,L4-019,1335.0,600.0,T1,laptopG,3,DIRECT-F5-HP Laser 107w,c2:18:03:9d:da:f5,2412,1,2.4,20,-68.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-57.0,,48.0,65.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-57.0,,2.0,57.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-56.0,,15.0,57.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,puthay,f2:82:6f:16:bf:40,5745,149,5.0,80,-79.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-74.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,Hooh?,7e:22:13:af:3a:5e,5745,149,5.0,80,-71.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-81.0,,8.0,55.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,Redmi Note 13 Pro 5G,f6:e8:e3:c9:91:e5,5200,40,5.0,80,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-64.0,,1.0,69.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-64.0,,7.0,69.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-66.0,,31.0,69.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-74.0,,1.0,53.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,eduroam,54:d7:e3:45:51:22,2462,11,2.4,20,-68.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,WiFi-FILKOM,54:d7:e3:45:51:21,2462,11,2.4,20,-68.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,WiFi-UB.x,54:d7:e3:45:51:20,2462,11,2.4,20,-67.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:34:11,2412,1,2.4,20,-75.0,,5.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:58:34:12,2412,1,2.4,20,-73.0,,0.0,62.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-66.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-74.0,,3.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:10,4,L4-021,1335.0,780.0,T1,laptopG,1,myECO_KWH,de:4f:22:4e:c7:f3,2412,1,2.4,20,-75.0,,,,Open,no,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-57.0,,48.0,62.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-57.0,,2.0,57.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-56.0,,15.0,57.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,puthay,f2:82:6f:16:bf:40,5745,149,5.0,80,-79.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-74.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,Hooh?,7e:22:13:af:3a:5e,5745,149,5.0,80,-71.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-81.0,,8.0,55.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,Redmi Note 13 Pro 5G,f6:e8:e3:c9:91:e5,5200,40,5.0,80,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-64.0,,1.0,69.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-66.0,,31.0,69.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-64.0,,7.0,69.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-74.0,,1.0,53.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,eduroam,54:d7:e3:45:51:22,2462,11,2.4,20,-68.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,WiFi-FILKOM,54:d7:e3:45:51:21,2462,11,2.4,20,-68.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,WiFi-UB.x,54:d7:e3:45:51:20,2462,11,2.4,20,-67.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:58:34:11,2412,1,2.4,20,-75.0,,5.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:58:34:12,2412,1,2.4,20,-73.0,,0.0,62.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-66.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-74.0,,3.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:19,4,L4-021,1335.0,780.0,T1,laptopG,2,myECO_KWH,de:4f:22:4e:c7:f3,2412,1,2.4,20,-75.0,,,,Open,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-57.0,,48.0,69.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5.0,20,-76.0,,42.0,78.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-71.0,,23.0,78.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,Cihuy,ca:cb:31:dd:9e:01,5765,153,5.0,80,-74.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-59.0,,9.0,43.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:34:d2,5765,153,5.0,20,-57.0,,3.0,43.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-58.0,,2.0,62.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-56.0,,15.0,62.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,puthay,f2:82:6f:16:bf:40,5745,149,5.0,80,-80.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,Hooh?,7e:22:13:af:3a:5e,5745,149,5.0,80,-76.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-69.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-FILKOM,e8:10:98:82:0b:41,5805,161,5.0,40,-80.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-75.0,,24.0,36.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-72.0,,4.0,36.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-71.0,,8.0,36.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-73.0,,29.0,51.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-74.0,,8.0,51.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-61.0,,1.0,75.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-63.0,,31.0,75.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-61.0,,7.0,75.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-57.0,,68.0,48.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-60.0,,4.0,48.6,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-55.0,,21.0,48.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-71.0,,2.0,48.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:58:34:d1,2462,11,2.4,20,-72.0,,1.0,48.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,FILKOM EVENT,54:d7:e3:45:51:23,2462,11,2.4,20,-73.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,54:d7:e3:45:51:22,2462,11,2.4,20,-73.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-FILKOM,54:d7:e3:45:51:21,2462,11,2.4,20,-73.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,WiFi-UB.x,54:d7:e3:45:51:20,2462,11,2.4,20,-73.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-71.0,,1.0,54.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,Hello World!,da:dc:e6:e3:be:97,2437,6,2.4,20,-64.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:30:28,4,L4-021,1335.0,780.0,T1,laptopG,3,dinoyowr,76:cb:e0:8e:6b:20,2412,1,2.4,20,-54.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-71.0,,8.0,54.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-73.0,,21.0,31.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-68.0,,0.0,31.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-66.0,,7.0,31.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-54.0,,2.0,72.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,joiy,c2:f2:80:de:92:00,5785,157,5.0,20,-70.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-52.0,,25.0,72.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,DIRECT-w7ISAACmsgp,22:16:b9:83:c2:b4,5785,157,5.0,20,-58.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-60.0,,2.0,53.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-59.0,,12.0,53.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,redmi,b2:8f:e7:8c:ea:d7,5745,149,5.0,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,ec:bd:1d:af:f6:7d,5745,149,5.0,20,-85.0,,6.0,7.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-50.0,,4.0,17.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-50.0,,28.0,17.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-54.0,,11.0,17.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,Redmi Note 13 Pro 5G,f6:e8:e3:c9:91:e5,5200,40,5.0,80,-79.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-36.0,,3.0,54.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-34.0,,26.0,54.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-34.0,,8.0,54.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-59.0,,67.0,34.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-69.0,,1.0,34.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-52.0,,21.0,34.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-67.0,,1.0,58.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-68.0,,27.0,58.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,We Up 🔥🗣️,02:5b:54:aa:11:72,2462,11,2.4,20,-57.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,Xiaomi 15T,12:16:ad:1b:97:51,2462,11,2.4,20,-62.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,Jj,ce:b4:29:44:65:1a,2437,6,2.4,20,-68.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-65.0,,1.0,38.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-67.0,,2.0,38.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-65.0,,0.0,38.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:34,4,L4-036,576.0,516.0,T1,laptopG,1,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-63.0,,0.0,58.4,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-62.0,,7.0,58.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-73.0,,21.0,31.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-68.0,,0.0,31.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-66.0,,7.0,31.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-54.0,,2.0,72.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,joiy,c2:f2:80:de:92:00,5785,157,5.0,20,-70.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-52.0,,25.0,72.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,DIRECT-w7ISAACmsgp,22:16:b9:83:c2:b4,5785,157,5.0,20,-58.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-60.0,,2.0,53.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-59.0,,12.0,53.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,redmi,b2:8f:e7:8c:ea:d7,5745,149,5.0,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,ec:bd:1d:af:f6:7d,5745,149,5.0,20,-85.0,,6.0,7.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-50.0,,4.0,17.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-50.0,,28.0,17.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-54.0,,11.0,17.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,Redmi Note 13 Pro 5G,f6:e8:e3:c9:91:e5,5200,40,5.0,80,-79.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-36.0,,3.0,54.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-34.0,,26.0,54.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-34.0,,8.0,54.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-59.0,,67.0,34.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-69.0,,1.0,34.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-52.0,,21.0,34.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,We Up 🔥🗣️,02:5b:54:aa:11:72,2462,11,2.4,20,-57.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,Xiaomi 15T,12:16:ad:1b:97:51,2462,11,2.4,20,-62.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-66.0,,27.0,58.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-67.0,,1.0,58.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,Jj,ce:b4:29:44:65:1a,2437,6,2.4,20,-68.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-65.0,,1.0,38.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-67.0,,2.0,38.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-65.0,,0.0,38.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:43,4,L4-036,576.0,516.0,T1,laptopG,2,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-63.0,,0.0,58.4,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-67.0,,7.0,49.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-71.0,,21.0,59.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-66.0,,0.0,59.6,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-68.0,,7.0,59.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-53.0,,2.0,70.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-51.0,,25.0,70.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,joiy,c2:f2:80:de:92:00,5785,157,5.0,20,-68.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,DIRECT-w7ISAACmsgp,22:16:b9:83:c2:b4,5785,157,5.0,20,-64.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-64.0,,2.0,43.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-64.0,,12.0,43.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,redmi,b2:8f:e7:8c:ea:d7,5745,149,5.0,20,-77.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,ec:bd:1d:af:f6:7d,5745,149,5.0,20,-85.0,,6.0,16.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-82.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,ec:bd:1d:af:f6:7f,5745,149,5.0,20,-82.0,,6.0,16.5,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,ec:bd:1d:af:f6:7c,5745,149,5.0,20,-86.0,,6.0,16.5,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-51.0,,4.0,16.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-50.0,,28.0,16.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-52.0,,11.0,16.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5.0,20,-79.0,,16.0,40.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-38.0,,3.0,51.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-35.0,,27.0,51.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-35.0,,8.0,51.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-66.0,,67.0,57.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-69.0,,2.0,57.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-66.0,,21.0,57.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-67.0,,1.0,49.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-66.0,,28.0,49.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,Xiaomi 15T,12:16:ad:1b:97:51,2462,11,2.4,20,-57.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-76.0,,1.0,29.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,We Up 🔥🗣️,02:5b:54:aa:11:72,2462,11,2.4,20,-66.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,Jj,ce:b4:29:44:65:1a,2437,6,2.4,20,-64.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-65.0,,0.0,24.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-66.0,,2.0,24.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-64.0,,0.0,24.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,WifiUB lagi jelek yah :0,42:7e:d9:37:a5:b4,2412,1,2.4,20,-68.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T13:53:52,4,L4-036,576.0,516.0,T1,laptopG,3,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-63.0,,0.0,58.8,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-61.0,,8.0,86.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:d2,5765,153,5.0,20,-81.0,,2.0,63.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:d1,5765,153,5.0,20,-79.0,,28.0,63.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-63.0,,0.0,43.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-62.0,,16.0,43.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,FKUB_HotSpot_Backup,b4:79:c8:ee:45:dc,5745,149,5.0,40,-77.0,,0.0,11.8,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,APCobaX,74:4d:28:49:75:30,5280,56,5.0,40,-81.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,WiFi-UB.x,34:8f:27:44:9d:cc,5240,48,5.0,40,-85.0,,0.0,74.5,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,eduroam,34:8f:27:04:9d:cc,5240,48,5.0,40,-82.0,,0.0,74.5,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-76.0,,20.0,68.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-76.0,,1.0,68.6,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-77.0,,5.0,68.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-79.0,,52.0,48.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-80.0,,3.0,48.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-78.0,,21.0,48.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,gedgdfxevrgtrunygybhuh,16:13:33:e7:6b:37,2462,11,2.4,20,-77.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,WiFi-UB.x,34:8f:27:44:98:a8,2462,11,2.4,20,-74.0,,3.0,28.6,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,π x r² x t,e2:7f:10:1d:5e:00,2437,6,2.4,20,-75.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,Tselhome-D111,42:aa:73:11:d1:58,2427,4,2.4,20,-83.0,,7.0,9.4,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,punya rafli,02:94:4d:ab:b4:7f,2437,6,2.4,20,-76.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,,4a:22:54:25:73:b0,2412,1,2.4,20,-77.0,,5.0,0.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:39,4,L4-022,1223.0,885.0,T1,laptopG,1,ROBOTIIK,48:22:54:15:73:b0,2412,1,2.4,20,-75.0,,4.0,0.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-63.0,,8.0,80.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,FKUB_HotSpot_Backup,2c:ab:46:be:09:33,5785,157,5.0,40,-81.0,,0.0,65.9,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:d0,5765,153,5.0,20,-80.0,,8.0,70.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-65.0,,0.0,51.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-61.0,,15.0,51.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,FKUB_HotSpot_Backup,b4:79:c8:ee:45:dc,5745,149,5.0,40,-77.0,,0.0,11.8,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,WiFi-UB.x,b4:79:c8:ae:45:dc,5745,149,5.0,40,-75.0,,6.0,11.8,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,eduroam,b4:79:c8:6e:45:dc,5745,149,5.0,40,-77.0,,3.0,11.8,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,FKUB_HotSpot,b4:79:c8:2e:45:dc,5745,149,5.0,40,-77.0,,4.0,11.8,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,APCobaX,74:4d:28:49:75:30,5280,56,5.0,40,-82.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-74.0,,1.0,89.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-81.0,,50.0,49.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-80.0,,3.0,49.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-78.0,,20.0,49.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,Tselhome-D111,42:aa:73:11:d1:58,2427,4,2.4,20,-83.0,,7.0,12.9,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,π x r² x t,e2:7f:10:1d:5e:00,2437,6,2.4,20,-74.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,Can I Get Uhhh,02:33:1c:50:52:5c,2437,6,2.4,20,-83.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:01:48,4,L4-022,1223.0,885.0,T1,laptopG,2,punya rafli,02:94:4d:ab:b4:7f,2437,6,2.4,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-64.0,,8.0,62.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,,da:e8:44:44:ea:a5,5785,157,5.0,80,-84.0,,0.0,0.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-65.0,,0.0,62.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-64.0,,15.0,62.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,ell,6e:c0:7c:50:ed:56,5745,149,5.0,80,-82.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,FKUB_HotSpot_Backup,b4:79:c8:ee:45:dc,5745,149,5.0,40,-75.0,,0.0,11.4,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,WiFi-UB.x,b4:79:c8:ae:45:dc,5745,149,5.0,40,-78.0,,6.0,11.4,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,eduroam,b4:79:c8:6e:45:dc,5745,149,5.0,40,-78.0,,3.0,11.4,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,APCobaX,74:4d:28:49:75:30,5280,56,5.0,40,-81.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,eduroam,00:e6:3a:10:eb:0c,5200,40,5.0,20,-82.0,,1.0,42.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-73.0,,1.0,86.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-73.0,,20.0,86.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-74.0,,4.0,86.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-79.0,,47.0,39.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-80.0,,3.0,39.6,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-80.0,,19.0,39.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,gedgdfxevrgtrunygybhuh,16:13:33:e7:6b:37,2462,11,2.4,20,-74.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,punya rafli,02:94:4d:ab:b4:7f,2437,6,2.4,20,-70.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:01:57,4,L4-022,1223.0,885.0,T1,laptopG,3,,4a:22:54:25:73:b0,2412,1,2.4,20,-75.0,,5.0,0.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-60.0,,3.0,14.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-56.0,,2.0,59.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-57.0,,9.0,59.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,mpp,de:f4:5f:b7:b7:06,5765,153,5.0,80,-70.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-60.0,,5.0,40.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-60.0,,8.0,40.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-78.0,,15.0,49.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,94:b3:4f:bc:cb:81,5805,161,5.0,20,-82.0,,13.0,26.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,ec:bd:1d:af:f6:7f,5745,149,5.0,20,-84.0,,6.0,36.1,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-82.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,ec:bd:1d:af:f6:7d,5745,149,5.0,20,-83.0,,6.0,36.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-61.0,,4.0,16.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-61.0,,18.0,16.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-52.0,,16.0,47.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-54.0,,1.0,47.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-53.0,,7.0,47.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-67.0,,23.0,26.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-65.0,,1.0,26.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-64.0,,5.0,26.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-66.0,,58.0,91.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-67.0,,1.0,91.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-66.0,,16.0,91.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,iHome5G15,66:93:2b:94:17:44,5180,36,5.0,80,-79.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,nai,9a:4b:bd:de:95:52,2467,12,2.4,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:34:d2,2462,11,2.4,20,-86.0,,4.0,51.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c0:c7:0a:58:34:d0,2462,11,2.4,20,-84.0,,0.0,51.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,سمي,ae:41:02:e7:59:bf,2462,11,2.4,20,-69.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,Capybara Selatan,8a:65:72:b7:4d:07,2462,11,2.4,20,-68.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,xxxyx,a6:42:06:8a:5e:34,2462,11,2.4,20,-62.0,,,,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,A17 milik Syerah,2a:47:b1:64:35:54,2432,5,2.4,20,-70.0,,,,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-79.0,,0.0,27.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,Akan Saya Lawan,32:b0:31:58:92:3b,2437,6,2.4,20,-74.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-77.0,,1.0,27.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-74.0,,0.0,27.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,ScenXus-b0a73235f7d4,b0:a7:32:35:f7:d5,2422,3,2.4,40,-72.0,,,,Open,no,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:34:11,2412,1,2.4,20,-70.0,,6.0,42.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-68.0,,0.0,42.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:58:34:12,2412,1,2.4,20,-65.0,,0.0,42.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5.0,20,-67.0,,0.0,55.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:05,4,L4-040,576.0,432.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:38:b1,5805,161,5.0,20,-68.0,,36.0,55.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-62.0,,2.0,12.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,,d8:e8:44:74:ea:a5,5785,157,5.0,80,-91.0,,0.0,0.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-55.0,,3.0,41.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5.0,20,-51.0,,25.0,41.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-53.0,,9.0,41.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-66.0,,5.0,38.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-66.0,,8.0,38.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,mpp,de:f4:5f:b7:b7:06,5765,153,5.0,80,-73.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,ec:bd:1d:af:f6:7d,5745,149,5.0,20,-88.0,,5.0,25.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,ec:bd:1d:af:f6:7f,5745,149,5.0,20,-89.0,,5.0,25.9,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,ec:bd:1d:af:f6:7c,5745,149,5.0,20,-90.0,,5.0,25.9,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-61.0,,19.0,15.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,28:b3:71:af:48:e0,5240,48,5.0,20,-85.0,,10.0,59.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-62.0,,4.0,15.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-37.0,,1.0,55.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-32.0,,15.0,55.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-33.0,,5.0,55.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-76.0,,21.0,87.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-76.0,,1.0,87.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-75.0,,6.0,87.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,Bidulds,c0:87:eb:72:5b:89,2462,11,2.4,20,-74.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,arii,96:f4:4f:b7:ad:76,2462,11,2.4,20,-71.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,a0:3d:6f:8f:92:20,2462,11,2.4,20,-77.0,,21.0,22.0,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,Akan Saya Lawan,32:b0:31:58:92:3b,2437,6,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-53.0,,0.0,19.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-53.0,,0.0,19.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,nadlightblitz,be:76:4a:db:2d:b8,2437,6,2.4,20,-74.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-53.0,,0.0,19.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,eduroam,ec:bd:1d:af:f6:72,2412,1,2.4,20,-79.0,,3.0,80.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,FILKOM EVENT,ec:bd:1d:af:f6:73,2412,1,2.4,20,-77.0,,3.0,80.4,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,power rangers pink,06:41:49:b6:01:82,2412,1,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:14,4,L4-040,576.0,432.0,T1,laptopG,2,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5.0,20,-88.0,,22.0,62.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-61.0,,2.0,18.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-87.0,,14.0,37.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-51.0,,9.0,56.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-53.0,,2.0,56.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5.0,20,-53.0,,25.0,56.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,mpp,de:f4:5f:b7:b7:06,5765,153,5.0,80,-73.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,ec:bd:1d:af:f6:7c,5745,149,5.0,20,-84.0,,5.0,25.9,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,ec:bd:1d:af:f6:7d,5745,149,5.0,20,-90.0,,5.0,25.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,ec:bd:1d:af:f6:7f,5745,149,5.0,20,-85.0,,5.0,25.9,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5.0,20,-82.0,,22.0,56.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,28:b3:71:af:48:e0,5240,48,5.0,20,-83.0,,9.0,56.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-61.0,,4.0,15.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-61.0,,19.0,15.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-34.0,,1.0,55.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-33.0,,15.0,55.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-33.0,,5.0,55.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-75.0,,20.0,69.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-76.0,,7.0,69.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-83.0,,60.0,63.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-84.0,,14.0,63.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,Capybara Selatan,8a:65:72:b7:4d:07,2462,11,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,arii,96:f4:4f:b7:ad:76,2462,11,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,Bidulds,c0:87:eb:72:5b:89,2462,11,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-77.0,,0.0,28.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-80.0,,0.0,28.6,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,a0:3d:6f:8f:92:23,2462,11,2.4,20,-79.0,,22.0,62.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,nadlightblitz,be:76:4a:db:2d:b8,2437,6,2.4,20,-76.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,Akan Saya Lawan,32:b0:31:58:92:3b,2437,6,2.4,20,-70.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-52.0,,0.0,21.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-51.0,,0.0,21.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-53.0,,0.0,21.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,power rangers pink,06:41:49:b6:01:82,2412,1,2.4,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,FILKOM EVENT,ec:bd:1d:af:f6:73,2412,1,2.4,20,-77.0,,3.0,60.8,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,eduroam,ec:bd:1d:af:f6:72,2412,1,2.4,20,-80.0,,3.0,60.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:34:23,4,L4-040,576.0,432.0,T1,laptopG,3,WiFi-UB.x,ec:bd:1d:af:f6:70,2412,1,2.4,20,-79.0,,3.0,60.8,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-43.0,,4.0,14.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5.0,20,-85.0,,14.0,21.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-55.0,,2.0,55.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-53.0,,9.0,55.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5.0,20,-68.0,,28.0,46.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-62.0,,5.0,46.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-67.0,,8.0,46.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,mpp,de:f4:5f:b7:b7:06,5765,153,5.0,80,-70.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,ec:bd:1d:af:f6:7d,5745,149,5.0,20,-90.0,,6.0,20.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,WiFi-UB.x,ec:bd:1d:af:f6:7f,5745,149,5.0,20,-89.0,,6.0,20.0,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,ec:bd:1d:af:f6:7c,5745,149,5.0,20,-90.0,,6.0,20.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,28:b3:71:af:48:e0,5240,48,5.0,20,-79.0,,9.0,80.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-65.0,,4.0,16.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-65.0,,19.0,16.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-36.0,,1.0,52.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-34.0,,16.0,52.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-33.0,,5.0,52.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-74.0,,1.0,34.5,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-72.0,,7.0,34.5,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-82.0,,60.0,52.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-85.0,,1.0,52.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,Bidulds,c0:87:eb:72:5b:89,2462,11,2.4,20,-73.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,jangan pake yang ini,32:47:da:4f:01:1b,2462,11,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,Capybara Selatan,8a:65:72:b7:4d:07,2462,11,2.4,20,-75.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,nadlightblitz,be:76:4a:db:2d:b8,2437,6,2.4,20,-75.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-53.0,,0.0,26.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-54.0,,0.0,26.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,Akan Saya Lawan,32:b0:31:58:92:3b,2437,6,2.4,20,-69.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-49.0,,0.0,26.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,WiFi-UB.x,ec:bd:1d:af:f6:70,2412,1,2.4,20,-79.0,,4.0,61.2,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:12,4,L4-043,576.0,600.0,T1,laptopG,1,power rangers pink,06:41:49:b6:01:82,2412,1,2.4,20,-73.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-45.0,,3.0,8.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-52.0,,2.0,79.2,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-51.0,,9.0,79.2,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5.0,20,-56.0,,29.0,49.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-56.0,,5.0,49.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-58.0,,8.0,49.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,mpp,de:f4:5f:b7:b7:06,5765,153,5.0,80,-78.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,Galaxy A23 46EC,02:7b:5e:71:6a:c5,5745,149,5.0,80,-81.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,,76:a0:e9:65:9c:d7,5745,149,5.0,20,-90.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-FILKOM,54:d7:e3:42:97:91,5260,52,5.0,40,-92.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-42.0,,4.0,16.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-42.0,,20.0,16.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5.0,20,-89.0,,16.0,28.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,28:b3:71:af:48:e0,5240,48,5.0,20,-87.0,,11.0,28.6,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-45.0,,1.0,35.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-43.0,,16.0,35.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-40.0,,5.0,35.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-79.0,,3.0,18.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-79.0,,0.0,18.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-81.0,,20.0,18.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-74.0,,57.0,34.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-74.0,,1.0,34.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-73.0,,13.0,34.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,rhz,fa:ef:3b:1c:d1:7a,2472,13,2.4,20,-55.0,,,,WPA2/WPA3-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,Capybara Selatan,8a:65:72:b7:4d:07,2462,11,2.4,20,-63.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70.0,,0.0,22.7,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-68.0,,4.0,22.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-69.0,,0.0,22.7,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,Akan Saya Lawan,32:b0:31:58:92:3b,2437,6,2.4,20,-56.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-73.0,,0.0,29.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-66.0,,0.0,29.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-70.0,,0.0,29.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,siblack,16:96:e5:e2:73:29,2437,6,2.4,20,-72.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,ROBOTIIK,48:22:54:15:73:b0,2412,1,2.4,20,-73.0,,5.0,0.0,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:21,4,L4-043,576.0,600.0,T1,laptopG,2,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-69.0,,0.0,50.2,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,28:b3:71:ab:d3:90,5240,48,5.0,20,-41.0,,2.0,9.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5.0,20,-52.0,,3.0,18.8,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5.0,20,-47.0,,9.0,18.8,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5.0,20,-60.0,,5.0,42.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5.0,20,-58.0,,8.0,42.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,mpp,de:f4:5f:b7:b7:06,5765,153,5.0,80,-78.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,54:d7:e3:42:97:92,5260,52,5.0,40,-90.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-FILKOM,54:d7:e3:42:97:91,5260,52,5.0,40,-90.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,54:d7:e3:42:97:90,5260,52,5.0,40,-89.0,,,,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5.0,20,-39.0,,4.0,9.0,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5.0,20,-40.0,,20.0,9.0,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5.0,20,-85.0,,16.0,16.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,28:b3:71:af:48:e0,5240,48,5.0,20,-89.0,,11.0,16.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5.0,20,-51.0,,1.0,40.4,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5.0,20,-44.0,,15.0,40.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5.0,20,-45.0,,5.0,40.4,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5.0,20,-78.0,,20.0,17.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5.0,20,-78.0,,0.0,17.3,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,c0:c7:0a:98:34:10,5220,44,5.0,20,-79.0,,3.0,17.3,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5.0,20,-74.0,,56.0,36.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5.0,20,-76.0,,1.0,36.1,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5.0,20,-74.0,,13.0,36.1,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,Capybara Selatan,8a:65:72:b7:4d:07,2462,11,2.4,20,-63.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70.0,,0.0,25.9,WPA2-Personal,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-68.0,,4.0,25.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68.0,,0.0,25.9,WPA2/3-Enterprise,capable,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,jangan pake yang ini,32:47:da:4f:01:1b,2462,11,2.4,20,-68.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,WiFi-UB.x,80:03:84:19:07:38,2462,11,2.4,20,-78.0,,3.0,30.6,WPA2/3-Enterprise,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,Akan Saya Lawan,32:b0:31:58:92:3b,2437,6,2.4,20,-64.0,,,,WPA2-Personal,no,,Joshua,G
+2026-10-05T14:36:30,4,L4-043,576.0,600.0,T1,laptopG,3,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-67.0,,0.0,52.9,WPA2-Personal,no,,Joshua,G

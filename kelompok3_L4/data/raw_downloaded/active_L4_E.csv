@@ -1,0 +1,4 @@
+timestamp,titik_id,bssid_assoc,freq_mhz,rssi_dbm,tx_rate_mbps,rtt_avg_ms,rtt_max_ms,jitter_ms,loss_pct,down_mbps,up_mbps,metode_rtt
+2026-09-28T14:53:15,L4-013,c0:c7:0a:98:38:b1,5805,-60,146.0,11.78,25.87,9.23,0.0,,,tcp443
+2026-09-28T14:54:45,L4-014,c0:c7:0a:98:3a:52,5240,-65,29.0,16.1,27.12,10.6,0.0,,,tcp443
+2026-09-28T14:56:03,L4-015,c0:c7:0a:98:3a:52,5240,-75,52.0,61.04,1013.49,109.81,0.0,,,tcp443

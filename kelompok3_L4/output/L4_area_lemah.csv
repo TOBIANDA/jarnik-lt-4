@@ -1,0 +1,4 @@
+area,jumlah_titik,titik,x_px,y_px,rssi_rata,status_terburuk,penyebab_dominan
+A1,1,L4-002,715.0,290.0,-44.0,BURUK,packet loss
+A2,1,L4-012,1063.0,135.0,-70.2,BURUK,cakupan lemah
+A3,1,L4-041,252.0,600.0,-42.6,BURUK,packet loss

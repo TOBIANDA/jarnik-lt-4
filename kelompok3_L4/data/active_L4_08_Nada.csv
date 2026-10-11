@@ -1,0 +1,4 @@
+timestamp,titik_id,bssid_assoc,freq_mhz,rssi_dbm,tx_rate_mbps,rtt_avg_ms,rtt_max_ms,jitter_ms,loss_pct,down_mbps,up_mbps,metode_rtt,anggota,blok
+2026-10-05T13:51:17,L4-022,c0:c7:0a:98:38:b1,5805,-64,286.8,113.99,159.21,25.2,0.0,,,tcp443,Nada,H
+2026-10-05T13:53:42,L4-023,c0:c7:0a:98:38:b1,5805,-56,286.8,125.59,213.47,30.88,0.0,,,tcp443,Nada,H
+2026-10-05T13:54:48,L4-024,c0:c7:0a:98:38:b1,5805,-52,286.8,124.58,183.48,30.15,0.0,,,tcp443,Nada,H
